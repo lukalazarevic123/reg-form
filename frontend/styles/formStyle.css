@@ -1,0 +1,13 @@
+.reg-form{
+    width: max(30%, 300px);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.person-name{
+    width: 95%;
+}
+
+.loading{
+    display: none;
+}

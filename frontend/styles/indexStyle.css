@@ -1,0 +1,33 @@
+.offcanvas{
+    color: whitesmoke;
+}
+
+.offcanvas-title{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.nav-link{
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 7px;
+    /* margin- */
+}
+
+.active{
+    background-color: #ffffff26;
+}
+
+.nav-link > svg {
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    background-color: #ffffff26;
+    color: white;
+    transition: 0.6s;
+}
